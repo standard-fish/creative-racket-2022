@@ -14,8 +14,8 @@ assignees: spdegabrielle
 
 ## Location for Entry
 <!--- Provide a link to your entry and the code required to recreate it -->
-* Entry link:
-* Code link:
+[ ] Entry link:
+[ ] Code link:
 <!--- Create a new repository with https://github.com/new -->
 
 ## How you made your entry?
