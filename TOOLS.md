@@ -11,6 +11,7 @@ Need help getting started?
 Having trouble? - ask a question on [racket-users]().
 
 Libraries that can be used to make images:
+* NEW [tessellation](https://pkgs.racket-lang.org/package/tessellation): A library to assist in the creation of geometric designs. 
 * [Pict: Functional Pictures](https://docs.racket-lang.org/pict/) - The `pict` library is one of the standard Racket functional picture libraries. The other is `2htdp/image`.
   * [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
   * [Metapict](https://docs.racket-lang.org/metapict/)   - The metapict library provides functions and data structures useful for generating picts. 
