@@ -1,4 +1,3 @@
-# DRAFT 
 ## Standard Fish Summer Picture Competition 2020
 
 ![Logo school of sfish](dense.png)
