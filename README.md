@@ -1,7 +1,5 @@
 ## Standard Fish Summer Picture Competition 2020
 
-![Racket Logo as a school of fish](dense.png)
-
 Entries need to be created with Racket or Racket language.
 * pictures
 * animations 
@@ -27,3 +25,8 @@ While you choose what licence you prefer for your entries, we would appreciate p
 
 Start date: release of Racket 7.8 (end of July)
 End date: end of August
+
+
+**Thank you to Ryan Culpepper for the logo image**: 
+
+![Racket Logo as a school of fish by Ryan Culpepper](dense.png)
