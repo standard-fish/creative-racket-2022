@@ -14,15 +14,17 @@ assignees: spdegabrielle
 
 ## Location for Entry
 <!--- Provide a link to your entry and the code required to recreate it -->
-[ ] Entry link:
-[ ] Code link:
-<!--- Create a new repository with https://github.com/new -->
+[ ] Entry link: <!-- link to final image or media file -->
+[ ] Code link: <!-- link to code in GitHub repo of Gist -->
 
 ## How you made your entry?
 <!--- What #lang and libraries/packages -->
-
-## Your Environment
 <!--- Include details required to run your entry -->
 * Racket Version used:
 * What #lang and libraries/packages:
 * Operating System and version:
+
+## Licence
+
+Licence for you image or media file:  <!-- Your choice. We suggest https://creativecommons.org/licenses/by-sa/4.0/ -->
+Licence for you code: <!-- Youe choice. We suggest MIT/Apache 2 like Racket -->
