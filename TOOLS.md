@@ -21,6 +21,7 @@ Libraries that can be used to make images:
 * [Lindenmayer](https://docs.racket-lang.org/lindenmayer) - _The Lindenmayer language provides a language for running and interpreting Lindenmayer Systems. In general L-systems are useful for modeling plant growth, procedural content generation, and making pretty pictures:_
 * [raart: Racket ASCII Art and Interfaces](https://docs.racket-lang.org/raart/index.html) - The raart module provides an algebraic model of ASCII that can be used for art, user interfaces, and diagrams.
 * [Planet Cute Images](https://docs.racket-lang.org/teachpack/2htdpPlanet_Cute_Images.html) - The 2htdp/planetcute library contains the Planet Cute art by Daniel Cook (Lostgarden.com).
+* [RSVG: an FFI binding for loading SVG images](https://docs.racket-lang.org/rsvg/) This library provides functions for loading SVG images as Racket bitmap objects through an FFI binding to libRSVG. The resulting bitmap objects can then be freely manipulated with the racket/draw or pict libraries.
 
 
 How to save a pict
