@@ -1,4 +1,4 @@
-## Standard Fish Summer Picture Competition 2020
+## Standard Fish Summer Picture Competition 2020 - currently on hold
 
 Entries need to be created with Racket or Racket language.
 * pictures
@@ -25,8 +25,8 @@ Entries should be submitted as a gist or repo and should be runnable by other ra
 
 While you choose what licence you prefer for your entries, we would appreciate premission to use entries for the following purposes; promoting Racket Programming Language and community, Racket Programming competitions.
 
-Start date: release of Racket 7.8 (end of July)
-End date: end of August
+Start date: currently on hold
+End date: currently on hold
 
 
 **Thank you to Ryan Culpepper for the logo image**: 
