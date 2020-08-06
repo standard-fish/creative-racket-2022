@@ -1,5 +1,7 @@
 ## Standard Fish Summer Picture Competition 2020 - currently on hold
 
+*This competition is currently on hold*
+
 Entries need to be created with Racket or Racket language.
 * pictures
 * animations 
