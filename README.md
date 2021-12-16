@@ -1,4 +1,4 @@
-## Creative Racket competition 2022
+# Creative Racket competition 2022
 
 *This is a community organised event*
 
@@ -13,6 +13,8 @@ Entries need to be created with Racket or Racket language.
 ### Prizes
 
 Winners will receive an excusive badge on their GitHub profile and laptop stickers. 
+
+There will be a range of categories to reflect the diversity of entries.
 
 Special prizes for the following categories
 
