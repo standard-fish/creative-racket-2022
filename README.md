@@ -30,6 +30,7 @@ Entries should be submitted as a gist or repo and should be runnable by other ra
 While you choose what licence you prefer for your entries, we would appreciate premission to use entries for the following purposes; promoting Racket Programming Language and community, Racket Programming competitions.
 
 Start date: 1 January 2022
+
 End date: 28 February 2022
 
 
