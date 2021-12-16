@@ -1,6 +1,4 @@
-## Standard Fish Summer Picture Competition 2020 - currently on hold
-
-*This competition is currently on hold*
+## Racket Creative Graphics Competition 2022
 
 Entries need to be created with Racket or Racket language.
 * pictures
@@ -12,7 +10,7 @@ Entries need to be created with Racket or Racket language.
 
 ### Prizes
 
-Winners will receive an excusive badge on their GitHub profile.
+Winners will receive an excusive badge on their GitHub profile, laptop 
 
 Special prizes for the following categories
 
