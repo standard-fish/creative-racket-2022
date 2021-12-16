@@ -1,4 +1,4 @@
-# Creative Racket competition 2022
+# Creative Racket Competition 2022
 
 *This is a community organised event*
 
