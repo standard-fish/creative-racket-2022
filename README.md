@@ -10,7 +10,7 @@ Entries need to be created with Racket or Racket language.
 
 ### Prizes
 
-Winners will receive an excusive badge on their GitHub profile, laptop 
+Winners will receive an excusive badge on their GitHub profile and laptop stickers. 
 
 Special prizes for the following categories
 
