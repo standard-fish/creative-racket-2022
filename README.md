@@ -1,4 +1,6 @@
-## Racket Creative Graphics Competition 2022
+## Creative Racket competition 2022
+
+*This is a community organised event*
 
 Entries need to be created with Racket or Racket language.
 * pictures
@@ -14,7 +16,7 @@ Winners will receive an excusive badge on their GitHub profile and laptop sticke
 
 Special prizes for the following categories
 
-* **Racket mascot** - winner will be chosen by peoples choice vote
+* **Racket mascot** - winner will be chosen by peoples choice vote 
 * **Racket meme**
 
 ## submissions 
