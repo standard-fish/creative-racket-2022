@@ -21,12 +21,12 @@ Special prizes for the following categories
 
 Entries should be submitted as a gist or repo and should be runnable by other racketeers
 
-[Entry form](https://github.com/standard-fish/racket-summer-picture-competition-2020/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)
+[Entry form](https://github.com/standard-fish/racket-creative-graphics-2022/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)
 
 While you choose what licence you prefer for your entries, we would appreciate premission to use entries for the following purposes; promoting Racket Programming Language and community, Racket Programming competitions.
 
-Start date: currently on hold
-End date: currently on hold
+Start date: 1 January 2022
+End date: 28 February 2022
 
 
 **Thank you to Ryan Culpepper for the logo image**: 
