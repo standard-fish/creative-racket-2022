@@ -12,12 +12,12 @@ Having trouble? - ask a question on [racket-users]().
 
 Libraries that can be used to make images:
 * NEW 
-* [https://github.com/soegaard/sketching/tree/main/sketching](https://github.com/soegaard/sketching/tree/main/sketching)
+* [https://soegaard.github.io/sketching/](https://soegaard.github.io/sketching/)
 * 
-* [tessellation](https://pkgs.racket-lang.org/package/tessellation): A library to assist in the creation of geometric designs. 
+* [Tessellation](https://pkgs.racket-lang.org/package/tessellation): A library to assist in the creation of geometric designs. 
 * [Pict: Functional Pictures](https://docs.racket-lang.org/pict/) - The `pict` library is one of the standard Racket functional picture libraries. The other is `2htdp/image`.
   * [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
-  * [Metapict](https://docs.racket-lang.org/metapict/)   - The metapict library provides functions and data structures useful for generating picts. 
+  * [MetaPict](https://docs.racket-lang.org/metapict/)   - The MetaPict library provides functions and data structures useful for generating picts. 
 * [2htdp/image](https://docs.racket-lang.org/teachpack/2htdpimage.html) - The `2htdp/image` library is one of the standard Racket functional picture libraries. The other is `pict`.
 * [Pict3D: Functional 3D Scenes](https://docs.racket-lang.org/pict3d) - go 3D!
 * [Plot: Graph Plotting](https://docs.racket-lang.org/plot/) - a graph plotting library that produces lovely plots.
@@ -27,7 +27,7 @@ Libraries that can be used to make images:
 * [RSVG: an FFI binding for loading SVG images](https://docs.racket-lang.org/rsvg/) This library provides functions for loading SVG images as Racket bitmap objects through an FFI binding to libRSVG. The resulting bitmap objects can then be freely manipulated with the racket/draw or pict libraries.
 
 
-How to save a pict
+How to save a pict.
 ```
 ;; convert the 'pict' image to a 'bitmap' image
 (define bitmap-waffle (pict->bitmap the-waffle))
