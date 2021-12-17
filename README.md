@@ -21,9 +21,9 @@ Special prizes for the following categories
 * **Racket mascot** - winner will be chosen by peoples choice vote 
 * **Racket meme**
 
-## submissions 
+## Submissions 
 
-Entries should be submitted as a gist or repo and should be runnable by other racketeers
+Entries should be submitted as a gist or repo and should be runnable by other racketeers.
 
 [Entry form](https://github.com/standard-fish/racket-creative-graphics-2022/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)
 
