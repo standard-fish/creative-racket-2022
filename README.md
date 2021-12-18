@@ -1,15 +1,24 @@
 # Creative Racket Competition 2022
 
-*This is a community organised event*
+*Get creative with Racket this winter! Win stickers!*
 
-Entries need to be created with Racket or Racket language.
-* pictures
-* animations 
-* interactive
-* Sound or music
-* Something else?
+1 January 2022 - 28 February 2022
 
-...are all acceptable.
+* Your entry must be created with Racket or a Racket language including RacketScript.
+  * pictures
+  * animations 
+  * interactive
+  * sound or music
+  * or something else?
+  * ...are all acceptable.
+* **You can enter as many times as you like**
+* Entries need to be runnable by other racketeers.
+
+See [TOOLS](TOOLS.md) for some suggestions but you can use anything. 
+
+It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creative-graphics-2022/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)  (If you can't use github let us know)
+
+Jens & Stephen
 
 ### Prizes
 
@@ -18,20 +27,11 @@ Entries need to be created with Racket or Racket language.
 
 Special prizes for the following categories
 
-* **Racket mascot** - winner will be chosen by peoples choice vote 
-* **Racket meme**
+* **Racket mascot** - winner will be chosen by peoples choice vote
+* **Racket meme** 
 
-## Submissions 
 
-Entries should be submitted as a gist or repo and should be runnable by other racketeers.
-
-[Entry form](https://github.com/standard-fish/racket-creative-graphics-2022/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)
-
-While you choose what licence you prefer for your entries, we would appreciate premission to use entries for the following purposes; promoting Racket Programming Language and community, Racket Programming competitions.
-
-Start date: 1 January 2022
-
-End date: 28 February 2022
+Note: Not an official Racket competition. We not a members of the Racket team, nor are we doing this on their behalf. We are covering the cost of the stickers and postage.
 
 
 **Thank you to Ryan Culpepper for the logo image**: 
