@@ -1,11 +1,8 @@
-New to Racket?
-
-* [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/) 
-
-## Tools
+New to Racket? see [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/) 
 
 If you need help or something in the documentation is confusing please ask a question on [Racket Discourse(forum)](https://racket.discourse.group) or [Racket Discord(chat)](https://discord.gg/6Zq8sH5)
 
+## Tools
 
 * [Sketching](https://soegaard.github.io/sketching/) A Language for Creative Coding
 * [Pict: Functional Pictures](https://docs.racket-lang.org/pict/)
@@ -14,13 +11,10 @@ If you need help or something in the documentation is confusing please ask a que
 * [Pict3D: Functional 3D Scenes](https://docs.racket-lang.org/pict3d) - go 3D!
 * [Plot: Graph Plotting](https://docs.racket-lang.org/plot/) - a graph plotting library that produces lovely plots.
 * [raart: Racket ASCII Art and Interfaces](https://docs.racket-lang.org/raart/index.html)
-
-
 * [Lindenmayer](https://docs.racket-lang.org/lindenmayer)
 * [Tessellation](https://pkgs.racket-lang.org/package/tessellation): A library to assist in the creation of geometric designs. 
-
-  * [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
-  * [MetaPict](https://docs.racket-lang.org/metapict/) - The MetaPict library provides functions and data structures useful for generating picts. 
+* [MetaPict](https://docs.racket-lang.org/metapict/) - The MetaPict library provides functions and data structures useful for generating picts. 
+* [Paper Doll](https://github.com/standard-fish/paper-doll)
 
 Sound
 * [RSound: A Sound Engine for Racket](https://docs.racket-lang.org/rsound/index.html)
@@ -31,12 +25,8 @@ Sound
 
 Animation/Interactive
 * you can use [`2htdp/universe`](https://docs.racket-lang.org/teachpack/2htdpuniverse.html) animate or make interactive.
-* http://racketscript.org/#example/falling-sky
-
-
-
-* [Paper Doll](https://github.com/standard-fish/paper-doll)
-* [Planet Cute Images](https://docs.racket-lang.org/teachpack/2htdpPlanet_Cute_Images.html) - The 2htdp/planetcute library contains the Planet Cute art by Daniel Cook (Lostgarden.com).
+* You can also do you images/animations in RacketScript http://racketscript.org/#example/falling-sky
+* [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
 
 How to save a pict.
 ```
