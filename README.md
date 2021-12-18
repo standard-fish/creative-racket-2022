@@ -1,6 +1,6 @@
 # Creative Racket Competition 2022
 
-*Get creative with Racket this winter! Win stickers!*
+***Get creative with Racket this winter! Win stickers!***
 
 1 January 2022 - 28 February 2022
 
