@@ -1,7 +1,7 @@
 ---
 name: Submit competition entry
 about: use this form to submit you entry to the summer picture competition
-title: "[ENTRY]"
+title: "[ENTRY TITLE]"
 labels: ''
 assignees: spdegabrielle
 
@@ -27,4 +27,4 @@ assignees: spdegabrielle
 ## Licence
 
 Licence for you image or media file:  <!-- Your choice. We suggest https://creativecommons.org/licenses/by-sa/4.0/ -->
-Licence for you code: <!-- Youe choice. We suggest MIT/Apache 2 like Racket -->
+Licence for you code: <!-- Your choice. We suggest MIT/Apache 2 like Racket -->
