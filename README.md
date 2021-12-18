@@ -20,6 +20,8 @@ It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creati
 
 **Jens & Stephen**
 
+----
+
 ### Prizes
 
 * Winners will receive an excusive badge on their GitHub profile and laptop stickers. 
