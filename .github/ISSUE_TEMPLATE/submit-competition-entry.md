@@ -28,3 +28,6 @@ assignees: spdegabrielle
 
 Licence for you image or media file:  <!-- Your choice. We suggest https://creativecommons.org/licenses/by-sa/4.0/ -->
 Licence for you code: <!-- Your choice. We suggest MIT/Apache 2 like Racket -->
+
+## Contact details
+Please provide your address for prizes https://forms.gle/21N9SC9d9Z6swEep8 (optional)
