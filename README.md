@@ -7,6 +7,7 @@ Entries need to be created with Racket or Racket language.
 * animations 
 * interactive
 * Sound or music
+* Something else?
 
 ...are all acceptable.
 
