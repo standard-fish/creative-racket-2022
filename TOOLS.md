@@ -1,15 +1,13 @@
+New to Racket?
 
+* [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/) 
 
 ## Tools
 
-I you need help or something in the documentation is confusing please ask a question on [Racket Discourse(forum)](https://racket.discourse.group) or [Racket Discord(chat)](https://discord.gg/6Zq8sH5)
-
-New to Racket
-* [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/) 
+If you need help or something in the documentation is confusing please ask a question on [Racket Discourse(forum)](https://racket.discourse.group) or [Racket Discord(chat)](https://discord.gg/6Zq8sH5)
 
 
-Libraries that can be used to make images:
-* [https://soegaard.github.io/sketching/](https://soegaard.github.io/sketching/)
+* [Sketching](https://soegaard.github.io/sketching/) A Language for Creative Coding
 * [Pict: Functional Pictures](https://docs.racket-lang.org/pict/)
 * [Image Guide](https://docs.racket-lang.org/teachpack/2htdpimage-guide.html) and [2htdp/image](https://docs.racket-lang.org/teachpack/2htdpimage.html) to make PNG or SVG images
 * [The Racket Drawing Toolkit](https://docs.racket-lang.org/draw/index.html)
