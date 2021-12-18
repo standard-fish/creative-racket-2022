@@ -18,7 +18,7 @@ See [TOOLS](TOOLS.md) for some suggestions but you can use anything you like.
 
 It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creative-graphics-2022/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)  (If you can't use github let us know)
 
-Jens & Stephen
+**Jens & Stephen**
 
 ### Prizes
 
