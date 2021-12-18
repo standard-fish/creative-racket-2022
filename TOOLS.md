@@ -2,30 +2,43 @@
 
 ## Tools
 
-Need help getting started?  
+I you need help or something in the documentation is confusing please ask a question on [Racket Discourse(forum)](https://racket.discourse.group) or [Racket Discord(chat)](https://discord.gg/6Zq8sH5)
+
+New to Racket
 * [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/) 
 
-* <https://github.com/standard-fish/paper-doll> - provided by Matthew Flatt:
-> 'In case it's of interest, enclosed is some code extracted from one of my talks. Start by running "demo.rkt". Someone might be interested to play with it or turn it into something better. Since there is no documentation, that someone would have to read the code to extract the various acceptable values for arguments. The most obvious direction for improvement is that choices like hair style and color should have been separated into different arguments."
-
-Having trouble? - ask a question on [racket-users]().
 
 Libraries that can be used to make images:
-* NEW 
 * [https://soegaard.github.io/sketching/](https://soegaard.github.io/sketching/)
-* 
-* [Tessellation](https://pkgs.racket-lang.org/package/tessellation): A library to assist in the creation of geometric designs. 
-* [Pict: Functional Pictures](https://docs.racket-lang.org/pict/) - The `pict` library is one of the standard Racket functional picture libraries. The other is `2htdp/image`.
-  * [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
-  * [MetaPict](https://docs.racket-lang.org/metapict/)   - The MetaPict library provides functions and data structures useful for generating picts. 
-* [2htdp/image](https://docs.racket-lang.org/teachpack/2htdpimage.html) - The `2htdp/image` library is one of the standard Racket functional picture libraries. The other is `pict`.
+* [Pict: Functional Pictures](https://docs.racket-lang.org/pict/)
+* [Image Guide](https://docs.racket-lang.org/teachpack/2htdpimage-guide.html) and [2htdp/image](https://docs.racket-lang.org/teachpack/2htdpimage.html) to make PNG or SVG images
+* [The Racket Drawing Toolkit](https://docs.racket-lang.org/draw/index.html)
 * [Pict3D: Functional 3D Scenes](https://docs.racket-lang.org/pict3d) - go 3D!
 * [Plot: Graph Plotting](https://docs.racket-lang.org/plot/) - a graph plotting library that produces lovely plots.
-* [Lindenmayer](https://docs.racket-lang.org/lindenmayer) - _The Lindenmayer language provides a language for running and interpreting Lindenmayer Systems. In general L-systems are useful for modeling plant growth, procedural content generation, and making pretty pictures:_
-* [raart: Racket ASCII Art and Interfaces](https://docs.racket-lang.org/raart/index.html) - The raart module provides an algebraic model of ASCII that can be used for art, user interfaces, and diagrams.
-* [Planet Cute Images](https://docs.racket-lang.org/teachpack/2htdpPlanet_Cute_Images.html) - The 2htdp/planetcute library contains the Planet Cute art by Daniel Cook (Lostgarden.com).
-* [RSVG: an FFI binding for loading SVG images](https://docs.racket-lang.org/rsvg/) This library provides functions for loading SVG images as Racket bitmap objects through an FFI binding to libRSVG. The resulting bitmap objects can then be freely manipulated with the racket/draw or pict libraries.
+* [raart: Racket ASCII Art and Interfaces](https://docs.racket-lang.org/raart/index.html)
 
+
+* [Lindenmayer](https://docs.racket-lang.org/lindenmayer)
+* [Tessellation](https://pkgs.racket-lang.org/package/tessellation): A library to assist in the creation of geometric designs. 
+
+  * [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
+  * [MetaPict](https://docs.racket-lang.org/metapict/) - The MetaPict library provides functions and data structures useful for generating picts. 
+
+Sound
+* [RSound: A Sound Engine for Racket](https://docs.racket-lang.org/rsound/index.html)
+* [Portaudio: Bindings for the Portaudio portable sound library](https://docs.racket-lang.org/portaudio/index.html)
+* [OSC: Open Sound Control Byte String Conversion](https://docs.racket-lang.org/osc/index.html)
+* [RtMidi](https://docs.racket-lang.org/rtmidi/index.html)
+* Jay McCarthy — Bithoven and the NES Chamber Orchestra [Slides](https://con.racket-lang.org/2015/mccarthy.pdf) + [Presentation](https://youtu.be/BDg79CPbdXQ) + [examples](https://github.com/jeapostrophe/srpnt/blob/master/examples/README.md)
+
+Animation/Interactive
+* you can use [`2htdp/universe`](https://docs.racket-lang.org/teachpack/2htdpuniverse.html) animate or make interactive.
+* http://racketscript.org/#example/falling-sky
+
+
+
+* [Paper Doll](https://github.com/standard-fish/paper-doll)
+* [Planet Cute Images](https://docs.racket-lang.org/teachpack/2htdpPlanet_Cute_Images.html) - The 2htdp/planetcute library contains the Planet Cute art by Daniel Cook (Lostgarden.com).
 
 How to save a pict.
 ```
@@ -35,8 +48,5 @@ How to save a pict.
 ;; tell the bitmap waffle to save itself to a .png file
 (send bitmap-waffle save-file "images/waffle.png" 'png)
 ```
-
-
-![Planet Cute Images](https://docs.racket-lang.org/teachpack/pict.png)
 
 ![branch](https://docs.racket-lang.org/lindenmayer/pict.png)
