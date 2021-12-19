@@ -20,6 +20,8 @@ It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creati
 
 **Jens & Stephen**
 
+(base64-decode #"c3BkZWdhYnJpZWxsZUBnbWFpbC5jb20=")
+
 ----
 
 ### Prizes
@@ -42,3 +44,6 @@ Note: Not an official Racket competition. We not a members of the Racket team, n
 
 
 ![showreel5restore-bg.gif](showreel5restore-bg.gif)
+
+ZW50cmllcyBmZWF0dXJpbmcgZmlzaCB3aWxsIG9idmlvdXNseSBiZSB0cmVhdGVkIGZhdm91\r\ncmFibHkgYnkgb25lIG9mIHRoZSB0aGUganVkZ2Vz
+
