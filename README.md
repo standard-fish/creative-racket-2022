@@ -18,6 +18,8 @@ See [TOOLS](TOOLS.md) for some suggestions but you can use anything you like.
 
 It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creative-graphics-2022/issues/new?assignees=spdegabrielle&labels=&template=submit-competition-entry.md&title=%5BENTRY%5D)  (If you can't use github let us know)
 
+Discussion on [Racket Discourse](https://racket.discourse.group/tag/creative-racket), [Discord](https://discord.gg/6Zq8sH5) or [Slack](https://racket-slack.herokuapp.com/)
+
 **Jens & Stephen**
 
 (base64-decode #"c3BkZWdhYnJpZWxsZUBnbWFpbC5jb20=")
