@@ -30,7 +30,7 @@ Discussion on [Racket Discourse](https://racket.discourse.group/tag/creative-rac
 * Winners will receive an excusive badge on their GitHub profile and laptop stickers. 
 * There will be a range of categories to reflect the diversity of entries.
 
-Special prizes for the following categories
+### Special categories will include
 
 * **Racket mascot** - winner will be chosen by peoples choice vote
 * **Racket meme** 
