@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Racket Discourse - A forum for all things related to Racket. Ask your questions here!
+  - name: Racket Discourse
     url: https://racket.discourse.group/tag/creative-racket
-    about: Please ask and answer questions here.
+    about: A forum for all things related to Racket.
   - name: Racket Discord
     url: https://discord.gg/6Zq8sH5
-    about: A chat server for all things related to Racket. Ask your questions here!
+    about: A chat server for all things related to Racket.
   - name: Racket Slack
     url: https://racket-slack.herokuapp.com/
-    about: Chat for all things related to Racket. Ask your questions here!  Click here to join.
+    about: Chat for all things related to Racket. Click here to join.
