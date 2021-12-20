@@ -20,7 +20,7 @@ It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creati
 
 Discussion on [Racket Discourse](https://racket.discourse.group/tag/creative-racket), [Discord](https://discord.gg/6Zq8sH5) or [Slack](https://racket-slack.herokuapp.com/)
 
-**Jens & Stephen**
+**Jens Axel & Stephen**
 
 (base64-decode #"c3BkZWdhYnJpZWxsZUBnbWFpbC5jb20=")
 
