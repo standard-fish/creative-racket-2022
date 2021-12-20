@@ -1,6 +1,6 @@
 ---
 name: Submit competition entry
-about: use this form to submit you entry to the summer picture competition
+about: use this form to submit you entry
 title: "[ENTRY TITLE]"
 labels: ''
 assignees: spdegabrielle
