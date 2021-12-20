@@ -13,9 +13,9 @@ and ask away.
 * Chat      [Racket Discord(chat)](https://discord.gg/6Zq8sH5)
 * Web Forum [Racket Discourse(forum)](https://racket.discourse.group) 
 
-## Tools
+# Tools
 
-# Graphics
+## Graphics
 
 * [Sketching](https://soegaard.github.io/sketching/) A Language for Creative Coding (Animations and games)
 * [R-Cade](https://r-cade.io/) R-Cade - Retro-style game engine
@@ -31,7 +31,7 @@ and ask away.
 * [Paper Doll](https://github.com/standard-fish/paper-doll)
 * [Floating Point Bitmaps](https://docs.racket-lang.org/images/flomap_title.html)
 
-# Sound
+## Sound
 * [RSound: A Sound Engine for Racket](https://docs.racket-lang.org/rsound/index.html)
 * [Portaudio: Bindings for the Portaudio portable sound library](https://docs.racket-lang.org/portaudio/index.html)
 * [OSC: Open Sound Control Byte String Conversion](https://docs.racket-lang.org/osc/index.html)
@@ -43,9 +43,9 @@ and ask away.
 * The [`2htdp/universe`](https://docs.racket-lang.org/teachpack/2htdpuniverse.html) TeachPack can be used for animations.
 * [Progressive Picts and Slides](https://docs.racket-lang.org/ppict/index.html) 
 
-## Tips and Tricks
+# Tips and Tricks
 
-# How to save a pict
+## How to save a pict
 The easiest way to save a `pict` as an image file, 
 is to convert it to a bitmap first.
 
