@@ -4,7 +4,7 @@
 
 1 January 2022 - 28 February 2022
 
-* Your entry must be created with Racket or a Racket language including RacketScript.
+* Entries can be...
   * pictures
   * animations 
   * interactive
@@ -13,6 +13,7 @@
   * ...are all acceptable.
 * **You can enter as many times as you like**
 * Entries need to be runnable by other racketeers.
+* Your entry must be created with Racket or a Racket language including RacketScript.
 
 See [TOOLS](TOOLS.md) for some suggestions but you can use anything you like.
 
@@ -21,8 +22,6 @@ It is easy to enter: [Entry form](https://github.com/standard-fish/racket-creati
 Discussion on [Racket Discourse](https://racket.discourse.group/tag/creative-racket), [Discord](https://discord.gg/6Zq8sH5) or [Slack](https://racket-slack.herokuapp.com/)
 
 **Jens Axel & Stephen**
-
-(base64-decode #"c3BkZWdhYnJpZWxsZUBnbWFpbC5jb20=")
 
 ----
 
@@ -35,7 +34,6 @@ Special prizes for the following categories
 
 * **Racket mascot** - winner will be chosen by peoples choice vote
 * **Racket meme** 
-
 
 Note: Not an official Racket competition. We not a members of the Racket team, nor are we doing this on their behalf. We are covering the cost of the stickers and postage.
 
