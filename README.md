@@ -1,5 +1,7 @@
 # Creative Racket Competition 2022
 
+[_A community-led Racket event. Click to see others, past & future._](https://docs.google.com/document/d/1OAGSAXk7AfhVLEcjyeihh2IXKX9ZhUM0ZvKnObP6kxk/edit)
+
 ***Get creative with Racket this winter! Win stickers!***
 
 1 January 2022 - 28 February 2022
